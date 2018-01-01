@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-open-in-vim:toggle"
+    "atom-workspace": ["atom-open-in-vim:toggle", "atom-open-in-vim:winonly"]
   },
   "repository": "https://github.com/atom/atom-open-in-vim",
   "license": "MIT",

@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "cmd-ctrl-alt-v": "atom-open-in-vim:toggle"
+    "cmd-ctrl-alt-v": "atom-open-in-vim:toggle",
+    "cmd-ctrl-alt-o": "atom-open-in-vim:winonly",
+    "ctrl-w ctrl-o": "atom-open-in-vim:winonly"
   }
 }

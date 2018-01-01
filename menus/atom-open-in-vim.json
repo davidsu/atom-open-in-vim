@@ -12,12 +12,17 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-open-in-vim",
+          "label": "Open In Vim",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Go",
               "command": "atom-open-in-vim:toggle"
+            },
+            {
+              "label": "WinOnly",
+              "command": "atom-open-in-vim:winonly"
             }
+
           ]
         }
       ]
