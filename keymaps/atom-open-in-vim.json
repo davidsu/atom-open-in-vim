@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-ctrl-alt-v": "atom-open-in-vim:toggle"
+  }
+}

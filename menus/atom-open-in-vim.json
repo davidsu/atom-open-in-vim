@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-open-in-vim",
+        "command": "atom-open-in-vim:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-open-in-vim",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-open-in-vim:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
